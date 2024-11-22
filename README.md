@@ -1,37 +1,122 @@
-# Hospital Utilization
+# Riverside Medical Center Maternal and Neonatal Utilization and Cost Analysis
 
 ## Project Background
-Maternal and neonatal care comprise a significant area of healthcare, accounting for substantial hospital costs and resource use. High-cost conditions associated with pregnancy and childbirth present challenges not only in financial management but also in ensuring optimal clinical outcomes. Recognizing the need for actionable insights, The Hospital undertook a comprehensive analysis to identify key drivers of costs and utilization in maternal and neonatal services.
+Maternal and neonatal health is a priority at Riverside Regional Medical Center, a 350-bed hospital in the Midwest specializing in advanced maternal and child healthcare. With over 5,000 annual deliveries, including a significant proportion of high-risk cases, the hospital faces rising costs and complex resource demands.
 
-The goal of this initiative is to uncover conditions and care pathways that contribute most to hospital expenses, focusing on metrics such as total cost of care, cost per stay, length of stay (LOS), and readmission rates. Using clinical and billing data, we can optimize resource allocation, improve clinical outcomes and enhance the patient experience.
+As part of its commitment to operational efficiency and clinical excellence, Riverside’s leadership commissioned this analysis to identify maternal and neonatal conditions contributing most significantly to hospital costs and lengths of stay. The project involved collaboration with the hospital’s Data Analytics Team, Clinical Leadership in Obstetrics and Neonatology, and the Finance and Operations Teams to ensure a comprehensive approach.
 
-This will serve as a collaborative analysis to identify key drivers of costs and utilization in maternal and neonatal services. We will partner with Clinical Leadership from the Obstetrics and Neonatology departments to uncover insights and deliver recommendations to clinical leadership, financial teams, and hospital leadership. 
+Using hospital billing and clinical data, the analysis examined cost metrics (e.g., NICU costs, average cost per delivery) and utilization metrics (e.g., admission rates, length of stay). Findings from this project will inform Riverside’s strategic initiatives to reduce costs while maintaining high-quality care, particularly for high-risk maternal and neonatal patients.
+
+_This project represents a simulated analysis developed as part of a practice initiative. The client, Riverside Medical Center is a fictional entity to simulate a realistic healthcare environment for this exercise._
 
 Insights will be provided in the following key areas:
-**Clinical Teams**
-- Focus on actionable changes to care pathways and patient outcomes
-- Pinpointing opportunities for process improvements, such as care coordination or alternative care settings.
-**Finance TEams**
-- Identifying specific diagnoses or procedures responsible for high-cost, high-utilization patterns
-- Highlighting avoidable costs linked to prolonged hospital stays, readmissions, or inefficiencies
-**Hospital Leadership**
-- Align findings with strategic goals and broader hospital priorities
+- **Category 1: Utilization trends** 
+- **Category 2: Current Cost Drivers** 
+- **Category 3: Efficiency and Outcome Correlation** 
+- **Category 4: Identifying Disparities** 
+
+The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+
+Targeted SQL queries regarding various business questions can be found here [link].
+
+An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+![image](https://github.com/user-attachments/assets/e6b4f8dc-396e-4f7e-a07c-9548a5aac955)
   
 ## Data Structure and Initial Checks
+
+The company's main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
+- **Table 2:**
+- **Table 3:**
+- **Table 4:**
+- **Table 5:**
+
+[Entity Relationship Diagram here]
+![image](https://github.com/user-attachments/assets/8331de0c-6791-44ff-94e8-70da6bce665d)
+
 ## Executive Summary
+### Overview of Findings
+
+Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+
+[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![image](https://github.com/user-attachments/assets/d0d24af9-e36f-4386-9eda-38a9893b4863)
+
+# Insights Deep Dive
+### Category 1:
+
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+[Visualization specific to category 1]
+
+
+### Category 2:
+
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+[Visualization specific to category 2]
+
+
+### Category 3:
+
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+[Visualization specific to category 3]
+
+
+### Category 4:
+
+* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+  
+* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+[Visualization specific to category 4]
+![image](https://github.com/user-attachments/assets/4c421d48-e6e8-4706-b219-f01b669064ed)
+
 ## Reccomendations
-- Cost-Saving Opportunities: Reducing unnecessary cesarean deliveries could save an average of $X per delivery.
-- Quality Improvement Areas: Targeted prenatal programs for high-risk pregnancies could reduce NICU admissions by Y%
-- Equity Interventions: Addressing racial disparities in preterm birth rates could reduce costs by Z% annually.
+Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-**Short Term Actions**
-- pilot programs for specific conditions or populations
-- enhanced care coordination for high cost diagnoses
+* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+  
+* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+  
+* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+  
+* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+  
+* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+![image](https://github.com/user-attachments/assets/1649b172-e71d-47a8-b4bb-75d4b829fbb6)
 
-**Long Term Goals**
-- develop hospital wide protocols to address cost drivers
-- Advocate for policy cghanges or funding to support maternal/fetal health
 ## Caveats and Assumptions
+Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+
+* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
+  
+* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
+  
+* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+![image](https://github.com/user-attachments/assets/aa5dcee5-2266-4b27-8c84-705c5f645685)
 
 
 ## Project Background
