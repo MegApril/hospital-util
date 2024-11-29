@@ -19,7 +19,7 @@ EDA involved exploring the data to answer key stakeholder questions such as:
 
 ## Data Analysis
 Insights will be provided in the following key areas:
-- **Category 1: [Utilization Patterns](###utilization-patterns)** 
+- **Category 1: [Utilization Patterns](#utilization-patterns)** 
 - **Category 2: Geographic Differences** 
 - **Category 3: Cost Trends and Drivers** 
 - **Category 4: Outcomes and Cost Relationships** 
@@ -43,7 +43,7 @@ The company's main database structure as seen below consists of four tables: tab
 - **Table 4:**
 - **Table 5:**
 [Entity Relationship Diagram here]
-![image](https://github.com/user-attachments/assets/8331de0c-6791-44ff-94e8-70da6bce665d)
+![image]()
 
 ### Data Sources 
 
@@ -54,18 +54,12 @@ The company's main database structure as seen below consists of four tables: tab
 Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
-![image](https://github.com/user-attachments/assets/d0d24af9-e36f-4386-9eda-38a9893b4863)
+![image]()
 
 # Insights Deep Dive
 ### Category 1: Utilization Patterns
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 1]
 
@@ -74,11 +68,6 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 2]
 
@@ -86,12 +75,6 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 ### Category 3:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 3]
 
@@ -100,28 +83,15 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 4]
-![image](https://github.com/user-attachments/assets/4c421d48-e6e8-4706-b219-f01b669064ed)
+![image]()
 
 ## Reccomendations
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-![image](https://github.com/user-attachments/assets/1649b172-e71d-47a8-b4bb-75d4b829fbb6)
+![image]()
 
 ## Caveats and Assumptions
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
