@@ -2,13 +2,13 @@
 
 
 ## Project Background
-Maternal and neonatal health is a priority at Riverside Regional Medical Center, a 350-bed hospital in the Midwest specializing in advanced maternal and child healthcare. With over 5,000 annual deliveries, including a significant proportion of high-risk cases, the hospital faces rising costs and complex resource demands.
+Riverside Regional Medical Center is a 350-bed academic hospital in the Midwest specializing in advanced maternal and child healthcare for over 25 years. With over 5,000 annual deliveries, including a significant proportion of high-risk cases, Riverside faces rising costs and complex resource demands.
 
-Riverside’s leadership commissioned this analysis to identify maternal and neonatal conditions contributing most significantly to hospital costs and lengths of stay as part of its commitment to operational efficiency and clinical excellence. The project involved collaboration with the hospital’s Data Analytics Team, Clinical Leadership in Obstetrics and Neonatology, and the Finance and Operations Teams to ensure a comprehensive approach.
+This analysis identifies conditions, diagnoses, and procedures that contribute most to hospital costs and lengths of stay. Insights and recommendations for further analysis will be forwarded to Clinical Leadership in Obstetrics and Neonatology, and teams in Finance and Operations.
 
 The analysis used hospital billing and clinical data. It examined cost metrics (e.g., NICU costs, average cost per delivery) and utilization metrics (e.g., admission rates, length of stay). Findings from this project will inform Riverside’s strategic initiatives to reduce costs while maintaining high-quality care, particularly for high-risk maternal and neonatal patients.
 
-_This project represents a simulated analysis developed as part of a practice initiative. The client, Riverside Medical Center is a fictional entity to simulate a realistic healthcare environment for this exercise._
+_This project is a simulated analysis developed for a practice initiative. The client, Riverside Medical Center is a fictional entity to simulate a realistic healthcare environment for this exercise._
 
 ## Exploratory Data Analysis
 EDA involved exploring the data to answer key stakeholder questions such as:
@@ -20,9 +20,9 @@ EDA involved exploring the data to answer key stakeholder questions such as:
 ## Data Analysis
 Insights will be provided in the following key areas:
 - **Category 1: [Utilization Patterns](#utilization-patterns)** 
-- **Category 2: Geographic Differences** 
-- **Category 3: Cost Trends and Drivers** 
-- **Category 4: Outcomes and Cost Relationships** 
+- **Category 2: [Geographic Differences](#geographic-differences)** 
+- **Category 3: [Cost Trends and Drivers](#cost-trends-and-drivers)** 
+- **Category 4: [Outcomes and Cost Relationships](#outcomes-and-cost-relationships)** 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 Targeted SQL queries regarding various business questions can be found here [link].
@@ -56,6 +56,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 ![image]()
 
+[Back to Top](#riverside-medical-center-maternal-and-neonatal-utilization-and-cost-analysis)
 # Insights Deep Dive
 ### Utilization Patterns
 
@@ -64,44 +65,59 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 1]
 
 
-### Category 2:
+### Geographic Differences
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 
 [Visualization specific to category 2]
 
-
-### Category 3:
+[Back to Top](#riverside-medical-center-maternal-and-neonatal-utilization-and-cost-analysis)
+### Cost Trends and Drivers
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 3]
 
-
-### Category 4:
+[Back to Top](#riverside-medical-center-maternal-and-neonatal-utilization-and-cost-analysis)
+### Outcomes and Cost Relationships
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
 
 [Visualization specific to category 4]
 ![image]()
+[Back to Top](#riverside-medical-center-maternal-and-neonatal-utilization-and-cost-analysis)
 
 ## Reccomendations
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
-
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
 ![image]()
+[Back to Top](#riverside-medical-center-maternal-and-neonatal-utilization-and-cost-analysis)
 
 ## Caveats and Assumptions
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
-
 * Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
 * Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
 * Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
 ![image](https://github.com/user-attachments/assets/aa5dcee5-2266-4b27-8c84-705c5f645685)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Project Background
