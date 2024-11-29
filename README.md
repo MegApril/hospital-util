@@ -27,7 +27,7 @@ Insights will be provided in the following key areas:
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 Targeted SQL queries regarding various business questions can be found here [link].
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-![image](https://github.com/user-attachments/assets/e6b4f8dc-396e-4f7e-a07c-9548a5aac955)
+[image]()
 
 ```sql
 SELECT *
