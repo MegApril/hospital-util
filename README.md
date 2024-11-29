@@ -10,16 +10,16 @@ The analysis used hospital billing and clinical data. It examined cost metrics (
 
 _This project represents a simulated analysis developed as part of a practice initiative. The client, Riverside Medical Center is a fictional entity to simulate a realistic healthcare environment for this exercise._
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 EDA involved exploring the data to answer key stakeholder questions such as:
   - What is the average length of stay for maternal and neonatal patients by diagnosis or procedure type?
   - Which conditions or diagnoses account for the highest volume of hospital visits?
   - Are there correlations between higher costs and better maternal or neonatal health outcomes?
   - Which conditions lead to the longest hospital stays and highest associated costs?
 
-### Data Analysis
+## Data Analysis
 Insights will be provided in the following key areas:
-- **Category 1: Utilization Patterns** 
+- **Category 1: [Utilization Patterns](###utilization-patterns)** 
 - **Category 2: Geographic Differences** 
 - **Category 3: Cost Trends and Drivers** 
 - **Category 4: Outcomes and Cost Relationships** 
@@ -51,15 +51,13 @@ The company's main database structure as seen below consists of four tables: tab
 
 
 ## Executive Summary
-### Overview of Findings
-
 Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 ![image](https://github.com/user-attachments/assets/d0d24af9-e36f-4386-9eda-38a9893b4863)
 
 # Insights Deep Dive
-### Category 1:
+### Category 1: Utilization Patterns
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
