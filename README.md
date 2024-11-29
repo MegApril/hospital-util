@@ -1,26 +1,39 @@
 # Riverside Medical Center Maternal and Neonatal Utilization and Cost Analysis
 
+
 ## Project Background
 Maternal and neonatal health is a priority at Riverside Regional Medical Center, a 350-bed hospital in the Midwest specializing in advanced maternal and child healthcare. With over 5,000 annual deliveries, including a significant proportion of high-risk cases, the hospital faces rising costs and complex resource demands.
 
-As part of its commitment to operational efficiency and clinical excellence, Riverside’s leadership commissioned this analysis to identify maternal and neonatal conditions contributing most significantly to hospital costs and lengths of stay. The project involved collaboration with the hospital’s Data Analytics Team, Clinical Leadership in Obstetrics and Neonatology, and the Finance and Operations Teams to ensure a comprehensive approach.
+Riverside’s leadership commissioned this analysis to identify maternal and neonatal conditions contributing most significantly to hospital costs and lengths of stay as part of its commitment to operational efficiency and clinical excellence. The project involved collaboration with the hospital’s Data Analytics Team, Clinical Leadership in Obstetrics and Neonatology, and the Finance and Operations Teams to ensure a comprehensive approach.
 
-Using hospital billing and clinical data, the analysis examined cost metrics (e.g., NICU costs, average cost per delivery) and utilization metrics (e.g., admission rates, length of stay). Findings from this project will inform Riverside’s strategic initiatives to reduce costs while maintaining high-quality care, particularly for high-risk maternal and neonatal patients.
+The analysis used hospital billing and clinical data. It examined cost metrics (e.g., NICU costs, average cost per delivery) and utilization metrics (e.g., admission rates, length of stay). Findings from this project will inform Riverside’s strategic initiatives to reduce costs while maintaining high-quality care, particularly for high-risk maternal and neonatal patients.
 
 _This project represents a simulated analysis developed as part of a practice initiative. The client, Riverside Medical Center is a fictional entity to simulate a realistic healthcare environment for this exercise._
 
+### Exploratory Data Analysis
+EDA involved exploring the data to answer key stakeholder questions such as:
+  - What is the average length of stay for maternal and neonatal patients by diagnosis or procedure type?
+  - Which conditions or diagnoses account for the highest volume of hospital visits?
+  - Are there correlations between higher costs and better maternal or neonatal health outcomes?
+  - Which conditions lead to the longest hospital stays and highest associated costs?
+
+### Data Analysis
 Insights will be provided in the following key areas:
-- **Category 1: Utilization trends** 
-- **Category 2: Current Cost Drivers** 
-- **Category 3: Efficiency and Outcome Correlation** 
-- **Category 4: Identifying Disparities** 
+- **Category 1: Utilization Patterns** 
+- **Category 2: Geographic Differences** 
+- **Category 3: Cost Trends and Drivers** 
+- **Category 4: Outcomes and Cost Relationships** 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
 Targeted SQL queries regarding various business questions can be found here [link].
-
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 ![image](https://github.com/user-attachments/assets/e6b4f8dc-396e-4f7e-a07c-9548a5aac955)
+
+```sql
+SELECT *
+FROM
+WHERE
+```
   
 ## Data Structure and Initial Checks
 
@@ -29,9 +42,13 @@ The company's main database structure as seen below consists of four tables: tab
 - **Table 3:**
 - **Table 4:**
 - **Table 5:**
-
 [Entity Relationship Diagram here]
 ![image](https://github.com/user-attachments/assets/8331de0c-6791-44ff-94e8-70da6bce665d)
+
+### Data Sources 
+
+### Tools Used
+
 
 ## Executive Summary
 ### Overview of Findings
