@@ -57,7 +57,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 ![image]()
 
 # Insights Deep Dive
-### Category 1: Utilization Patterns
+### Utilization Patterns
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
