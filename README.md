@@ -4,11 +4,22 @@
 ## Project Background
 Riverside Regional Medical Center is a 350-bed academic hospital in the Midwest specializing in advanced maternal and child healthcare for over 25 years. With over 5,000 annual deliveries, including a significant proportion of high-risk cases, Riverside faces rising costs and complex resource demands.
 
-This analysis identifies conditions, diagnoses, and procedures that contribute most to hospital costs and lengths of stay. Insights and recommendations for further analysis will be forwarded to Clinical Leadership in Obstetrics and Neonatology, and teams in Finance and Operations.
+This analysis identifies conditions, diagnoses, and procedures that contribute most to hospital costs and lengths of stay. Insights and recommendations for further analysis will be forwarded to Clinical Leadership, and teams in Finance and Operations.
 
-The analysis used hospital billing and clinical data. It examined cost metrics (e.g., NICU costs, average cost per delivery) and utilization metrics (e.g., admission rates, length of stay). Findings from this project will inform Riverside’s strategic initiatives to reduce costs while maintaining high-quality care, particularly for high-risk maternal and neonatal patients.
+To complete this analysis, hospital billing and clinical data was used and can be found in the repository. 
 
-_This project is a simulated analysis developed for a practice initiative. The client, Riverside Medical Center is a fictional entity to simulate a realistic healthcare environment for this exercise._
+## Northstar metrics 
+The following metrics were selected to measure utilization, cost efficiency and outcomes.
+  1. Utilization
+     - Rate of Neonatal and Maternal Hospital Admissions
+     - Cesarean vs. Vaginal Delivery Rate
+     - NICU usage Rate
+     - Average Hospital Stay Duration
+     - Diagnostic and Procedural Utilization Trends
+  3. Cost
+  4. Outcomes
+
+_This project is a simulated analysis developed by the author. The "client," Riverside Medical Center is a fictional enterprise to mimic a realistic healthcare environment._
 
 ## Exploratory Data Analysis
 EDA involved exploring the data to answer key stakeholder questions such as:
