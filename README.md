@@ -10,15 +10,24 @@ To complete this analysis, hospital billing and clinical data was used and can b
 
 ## Northstar metrics 
 The following metrics were selected to measure utilization, cost efficiency and outcomes.
-  1. Utilization
+  1. Utilization Metrics
      - Rate of Neonatal and Maternal Hospital Admissions
      - Cesarean vs. Vaginal Delivery Rate
-     - NICU usage Rate
-     - Average Hospital Stay Duration
+     - NICU Usage Rate
+     - Average Length of Stay
      - Diagnostic and Procedural Utilization Trends
-  3. Cost
-  4. Outcomes
-
+  2. Cost Metrics
+     - Cost per Hospital Stay
+     - Cost per Procedure
+     - Total NICU costs per Admission
+     - Cost-to-Utilization Ratio
+     - Seasonal Variations in Delivery Costs
+  3. Outcome and Quality Metrics
+     - Complication Rates for MAternal and NEonatal Patients
+     - Readmission Rates within 30 days
+     - Correlation between Cost and Health Outcomes
+     - Mortality Rate for NEonatal and Maternal Patients
+     - Health Equity Metrics
 _This project is a simulated analysis developed by the author. The "client," Riverside Medical Center is a fictional enterprise to mimic a realistic healthcare environment._
 
 ## Exploratory Data Analysis
