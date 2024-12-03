@@ -28,6 +28,8 @@ The following metrics were selected to measure utilization, cost efficiency and 
      - Correlation between Cost and Health Outcomes
      - Mortality Rate for NEonatal and Maternal Patients
      - Health Equity Metrics
+    
+
 _This project is a simulated analysis developed by the author. The "client," Riverside Medical Center is a fictional enterprise to mimic a realistic healthcare environment._
 
 ## Exploratory Data Analysis
@@ -47,7 +49,7 @@ Insights will be provided in the following key areas:
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 Targeted SQL queries regarding various business questions can be found here [link].
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-[image]()
+![image]()
 
 ```sql
 SELECT *
@@ -120,7 +122,7 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 * Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
 * Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
 * Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
-![image](https://github.com/user-attachments/assets/aa5dcee5-2266-4b27-8c84-705c5f645685)
+![image]()
 
 
 
