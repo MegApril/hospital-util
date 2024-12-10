@@ -46,9 +46,9 @@ Insights will be provided in the following key areas:
 - **Category 3: [Cost Trends and Drivers](#cost-trends-and-drivers)** 
 - **Category 4: [Outcomes and Cost Relationships](#outcomes-and-cost-relationships)** 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-Targeted SQL queries regarding various business questions can be found here [link].
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+The SQL queries used to inspect and clean the data for this analysis can be found [here](link).<br>
+Targeted SQL queries regarding various business questions can be found [here](link).<br>
+An interactive Tableau dashboard used to report and explore sales trends can be found [here](link).<br>
 ![image]()
 
 ```sql
@@ -56,7 +56,19 @@ SELECT *
 FROM
 WHERE
 ```
-  
+## Data Mapping
+|Analysis Question|Datasets Utilized|Relevant Fields|
+|:---------------|:--------------|:---------------|
+| What conditions or diagnoses account for the highest volume of hospital visits?| Row 1, Col 2   | Row 1, Col 3   |
+|How frequently are certain procedures (ex. cesarean sections) performed compared to others? (ex. vaginal deliveries)?| Datasets Utilized   | Relevant Fields|
+|What patterns are there in the use of diagnostic tests or interventions during labor and delivery?| Datasets Utilized   | Relevant Fields|
+|Are there geographic variations in maternal or neonatal health service utilization?| Datasets Utilized   | Relevant Fields|
+|Which hospitals have the lowest cost-to-utilization ratio for common maternal procedures?| Datasets Utilized   | Relevant Fields|
+|Which procedures, diagnoses, or services are associated with the highest costs?| Datasets Utilized   | Relevant Fields|
+|How have costs changed over time for maternal and neonatal care?| Datasets Utilized   | Relevant Fields|
+|Are there seasonal variations in costs associated with deliveries?| Datasets Utilized   | Relevant Fields|
+
+
 ## Data Structure and Initial Checks
 
 The company's main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
