@@ -4,7 +4,7 @@
 ## Project Background
 Riverside Regional Medical Center is a 350-bed academic hospital in the Midwest specializing in advanced maternal and child healthcare for over 25 years. With over 5,000 annual deliveries, including a significant proportion of high-risk cases, Riverside faces rising costs and complex resource demands.
 
-This analysis identifies conditions, diagnoses, and procedures that contribute most to hospital costs and lengths of stay. Insights and recommendations for further analysis will be forwarded to Clinical Leadership, and teams in Finance and Operations.
+This analysis identifies conditions, diagnoses, and procedures that contribute most to hospital costs and lengths of stay. Insights and recommendations for further analysis will be forwarded to Clinical Leadership, Finance, and Operations.
 
 To complete this analysis, hospital billing and clinical data was used and can be found in the repository. 
 
@@ -57,10 +57,13 @@ FROM
 WHERE
 ```
 ## Data Mapping
-Detailed data mapping documentation, processes and explanations can be found [here](data-mapping-documentation.md) and processes for how datasets and fields were mapped to stakeholder requests can be found here
+This project involves analyzing maternal and neonatal health data by linking datasets to specific stakeholder requests.
+Detailed data mapping documentation, processes, and explanations to stakeholder requests can be found [here](data-mapping-documentation.md)
 |Analysis Question|Datasets Utilized|Relevant Fields|
 |:---------------|:--------------|:---------------|
-| What conditions or diagnoses account for the highest volume of hospital visits?| [1. HCUP Fast Stats, Most Common Operations During Inpatient Stays](https://datatools.ahrq.gov/hcup-fast-stats?tab=national-hospital-utilization-costs&dash=77) <br><br> [2. HCUP Fast Stats, Most Common Diagnoses During Inpatient Stays](https://datatools.ahrq.gov/hcup-fast-stats?tab=national-hospital-utilization-costs&dash=75)| 1. - 2. -|
+| What conditions or diagnoses account for the highest volume of hospital visits?| [1. HCUP Fast Stats, Most Common Operations During Inpatient Stays](https://datatools.ahrq.gov/hcup-fast-stats?tab=national-hospital-utilization-costs&dash=77) <br><br> [2. HCUP Fast Stats, Most Common Diagnoses During Inpatient Stays](https://datatools.ahrq.gov/hcup-fast-stats?tab=national-hospital-utilization-costs&dash=75)| 1. - Procedure Classes for ICD-9-CM for data years 2015 and earlier
+- Procedure Classes Refined for ICD-10-PCS beginning in data year 2016
+2. -|
 |How frequently are certain procedures (ex. cesarean sections) performed compared to others? (ex. vaginal deliveries)?| Datasets Utilized   | Relevant Fields|
 |What patterns are there in the use of diagnostic tests or interventions during labor and delivery?| Datasets Utilized   | Relevant Fields|
 |Are there geographic variations in maternal or neonatal health service utilization?| Datasets Utilized   | Relevant Fields|
