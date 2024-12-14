@@ -57,6 +57,7 @@ FROM
 WHERE
 ```
 ## Data Mapping
+Detailed data mapping documentation, processes and explanations can be found [here]() and processes for how datasets and fields were mapped to stakeholder requests can be found here
 |Analysis Question|Datasets Utilized|Relevant Fields|
 |:---------------|:--------------|:---------------|
 | What conditions or diagnoses account for the highest volume of hospital visits?| [1. HCUP Fast Stats, Most Common Operations During Inpatient Stays](https://datatools.ahrq.gov/hcup-fast-stats?tab=national-hospital-utilization-costs&dash=77) <br><br> [2. HCUP Fast Stats, Most Common Diagnoses During Inpatient Stays](https://datatools.ahrq.gov/hcup-fast-stats?tab=national-hospital-utilization-costs&dash=75)| 1. - 2. -|
