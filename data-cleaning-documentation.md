@@ -1,9 +1,12 @@
 
-## Data Mapping
+## Data Cleaning
 
 This tracker documents the datasets used in this project and their alignment with specific analysis questions.
-|Analysis Question|Datasets Utilized|Relevant Fields|Transformation Notes|
-|:---------------|:--------------|:---------------|:----------------|
+| Dataset Name | Key Variables | Relevance to Question | Issues Identified | Decision | Reason for Inclusion/Exclusion |
+|:---------------|:--------------|:---------------|:----------------|:---------------|:----------------|
+|HCUP_2004-2021_CommonOperations| Maternal/Neonatal Stays, Number of Stays, Age, Rank, Procedure | **High Relevance** Needed to distinguish between neonatal and maternal stays.|Issues identified|Decision|Reason for Inclusion/Exclusion|
+
+| Dataset Name | Key Variables | Relevance to Question | Issues Identified | Decision | Reason for Inclusion/Exclusion |
 
 | What conditions or diagnoses account for the highest volume of neonatal and maternal inpatient hospital stays?| [HCUP Fast Stats, Most Common Operations During Inpatient Stays](https://datatools.ahrq.gov/hcup-fast-stats?tab=national-hospital-utilization-costs&dash=77) 
 <br> <br> [HCUP Fast Stats, Most Common Diagnoses During Inpatient Stays](https://datatools.ahrq.gov/hcup-fast-stats?tab=national-hospital-utilization-costs&dash=75)| - <br> <br> 2. -|
