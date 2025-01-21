@@ -6,7 +6,12 @@ This tracker documents the datasets used in this project as well as their alignm
 ### Which condiitons or diagnoses account for the highest volume of neonatal and maternal inpatient hospital stays?
 | Dataset Name | Key Variables | Relevance to Question | Issues Identified | Decision | Reason for Inclusion/Exclusion |
 |:---------------|:--------------|:---------------|:----------------|:---------------|:----------------|
-|HCUP_2004-2021_CommonOperations| Maternal/Neonatal Stays, Age, Number of Stays, Procedure, Rank | **High Relevance** Contains patient demographic details like gender, age, and maternal/neeonatal status, providing insights into patient characteristics associated with procedures |Issues identified|Decision|Reason for Inclusion/Exclusion|
+|HCUP_2004-2021_CommonOperations| **Patient:** Maternal/Neonatal Stays, Age 
+**Hospital Encounters:** Number of Stays **Conditions/Diagnoses:** Procedure, Rank | **High Relevance** Contains patient demographic details like gender, age, and maternal/neeonatal status, providing insights into patient characteristics associated with procedures |Issues identified|Decision|Reason for Inclusion/Exclusion|
+
+
+
+
 
 | Dataset Name | Key Variables | Relevance to Question | Issues Identified | Decision | Reason for Inclusion/Exclusion |
 
