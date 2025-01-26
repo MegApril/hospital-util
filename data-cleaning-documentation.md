@@ -5,7 +5,7 @@ This tracker documents the datasets used in this project as well as their alignm
 ### Which condiitons or diagnoses account for the highest volume of neonatal and maternal inpatient hospital stays?
 | Dataset Name | Key Variables | Relevance to Question | Issues Identified | Decision | Reason for Inclusion/Exclusion |
 |:---------------|:--------------|:---------------|:----------------|:---------------|:----------------|
-|HCUP_2004-2021_CommonOperations| **Patient:** Maternal/Neonatal Stays, Age    **Hospital Encounters:** Number of Stays **Conditions/Diagnoses:** Procedure, Rank | **High Relevance**  _Patient demographic_ details will differentiate between maternal and neonatal stays, while _hospital encounter_ details and _conditions/diagnoses_ fields will reveal the volume of encounters that are associated with specific conditions. |1440 records blank in field "Rate of Stays/100,000." 2881 records blank in field "Total Number of Stays, Weighted".|Decision|Reason for Inclusion/Exclusion|
+|HCUP_2004-2021_CommonOperations| **Patient:** Maternal/Neonatal Stays, Age <br> **Hospital Encounters:** Number of Stays **Conditions/Diagnoses:** Procedure, Rank | **High Relevance**  _Patient demographic_ details will differentiate between maternal and neonatal stays, while _hospital encounter_ details and _conditions/diagnoses_ fields will reveal the volume of encounters that are associated with specific conditions. |1440 records blank in field "Rate of Stays/100,000." 2881 records blank in field "Total Number of Stays, Weighted".|Decision|Reason for Inclusion/Exclusion|
 
 
 
