@@ -32,6 +32,7 @@ The following metrics were selected to measure utilization, cost efficiency and 
 
 _This project is a simulated analysis developed by the author. The "client," Riverside Medical Center is a fictional enterprise to mimic a realistic healthcare environment._
 
+To view the changelog for the entire Healthcare Analysis Project, click here: <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTMlU2u-kZP33EZCPlUPQRWAUR1cvxvSjp3UbTXVSjylTS4GKgxNDW7qqSeiIiuXSHnzEN2xLvASnt/pubhtml?widget=true&amp;headers=false"></iframe>
 ## Exploratory Data Analysis
 EDA involved exploring the data to answer key stakeholder questions such as:
   - What is the average length of stay for maternal and neonatal patients by diagnosis or procedure type?
