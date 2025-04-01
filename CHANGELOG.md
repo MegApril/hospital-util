@@ -8,8 +8,9 @@ All notable changes to this project will be documented in this file. The purpose
 - Executive Summary in README.md
 - An interactive Tableau dashboard used to report and explore sales trends can be found [here](link).<br>
 - Link to SQL queries in README.md
+- Entity Relationship Diagram in README.md
 ### Changed
-- simplify northstar metrics
+- Simplify Northstar metrics
 ### Deprecated
 ### Removed
 ### Fixed
