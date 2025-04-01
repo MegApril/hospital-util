@@ -48,8 +48,8 @@ Insights will be provided in the following key areas:
 
 
 ## Data Mapping
-This project involves analyzing maternal and neonatal health data by linking datasets to specific stakeholder requests.
-Detailed data mapping documentation, processes, and explanations to stakeholder requests can be found [here](data-mapping-documentation.md)
+This project analyzes maternal and neonatal health data by linking datasets to specific stakeholder requests.
+Detailed data mapping documentation, processes, and explanations to stakeholder requests can be found [here]()
 ### Cost Business Requirements
 |Analysis Question|Datasets Utilized|Relevant Fields|
 |:---------------|:--------------|:---------------|
