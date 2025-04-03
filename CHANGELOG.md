@@ -28,7 +28,11 @@ All notable changes to this project will be documented in this file. The purpose
 
 ## 2025-04-02 | Version 0.0.3
 ### Added
-- Added Metadata document to hospital-util to aid with ERD development
+- Metadata document to hospital-util to aid with ERD development.
+- "Dataset Overview" to metadata document.
+- "Attribute Level Documentation" section to metadata document.
+- "Data Relationships" section to metadata document.
+- "Notes & Assumptions" section
 ### Changed
 ### Deprecated
 ### Removed
