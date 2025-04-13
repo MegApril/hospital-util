@@ -2,14 +2,14 @@
 
 
 ## Project Background
-Riverside Regional Medical Center is a 350-bed academic hospital in the Midwest specializing in advanced maternal and child healthcare for over 25 years. With over 5,000 annual deliveries, including a significant proportion of high-risk cases, Riverside faces rising costs and complex resource demands.
+Riverside Regional Medical Center is a 350-bed, academic hospital in the Midwest specializing in advanced maternal and child healthcare for over 25 years. With over 5,000 annual deliveries, including a significant proportion of high-risk cases, Riverside faces rising costs and complex resource demands.
 
 This analysis identifies conditions, diagnoses, and procedures that contribute most to hospital costs and lengths of stay. Insights and recommendations for further analysis will be forwarded to Clinical Leadership, Finance, and Operations.
 
-To complete this analysis, hospital billing and clinical data was used and can be found in the repository. 
+To complete this analysis, hospital billing and clinical data were used and can be found in the repository. 
 
 ## Northstar metrics 
-The following metrics were selected to measure utilization, cost efficiency and outcomes.
+The following metrics were selected to measure utilization, cost efficiency, and outcomes.
   1. Utilization Metrics
      - Rate of Neonatal and Maternal Hospital Admissions
      - Cesarean vs. Vaginal Delivery Rate
