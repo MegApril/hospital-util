@@ -29,7 +29,6 @@ The following metrics were selected to measure utilization, cost efficiency, and
      - Mortality Rate for Neonatal and Maternal Patients
      - Health Equity Metrics
     
-
 _This project is a simulated analysis developed by the author. The "client," Riverside Medical Center, is a fictional enterprise to mimic a realistic healthcare environment._
 
 ## Exploratory Data Analysis
