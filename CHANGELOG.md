@@ -18,9 +18,11 @@ All notable changes to this project will be documented in this file. The purpose
 ### Security
 
 ---
+
 ## 20XX-XX-XX | Version 0.0.0 
 ### Added
 ### Changed
+- Simplified project overview
 ### Deprecated
 ### Removed
 ### Fixed
