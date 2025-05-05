@@ -19,6 +19,11 @@ All notable changes to this project will be documented in this file. The purpose
 ### Security
 
 ---
+## 2025-05-05 | Version 0.0.5 
+### Added
+- README.md to sql-scripts
+- data-cleaning.sql to sql-scripts
+- staging.sql to sql-scripts
 
 ## 2025-04-19 | Version 0.0.4 
 ### Added
