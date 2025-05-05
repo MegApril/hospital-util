@@ -24,6 +24,8 @@ All notable changes to this project will be documented in this file. The purpose
 - README.md to sql-scripts
 - data-cleaning.sql to sql-scripts
 - staging.sql to sql-scripts
+### Removed
+- data-cleaning-sql.sql and merged appropriate information into sql-scripts/README.md and 01_deduplicate.sql
 
 ## 2025-04-19 | Version 0.0.4 
 ### Added
