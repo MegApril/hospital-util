@@ -46,8 +46,6 @@ All notable changes to this project will be documented in this file. The purpose
 - Schema: Auto-detected
 - Notes: First core dataset focused on maternal interventions and immediate neonatal outcomes (e.g., NICU admission, APGAR scores, mode of delivery).
 - Documented dataset upload in changelog and metadata folder for reproducibility.
-- Created data-loading.md to track ingestion events and dataset sources.
-
 
 ## 2025-04-02 | Version 0.0.3
 ### Added
