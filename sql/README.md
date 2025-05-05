@@ -28,7 +28,3 @@
 
 This confirms that exact duplicates were present and successfully removed using `SELECT DISTINCT *`.
 
--- BigQuery Data Cleaning Framework (Safe, Modular, Reproducible)
--- Author: Meg Hinton
--- Description: Step-by-step SQL pipeline for cleaning messy datasets safely in BigQuery
--- Best Practice: Each step builds a new table using CREATE OR REPLACE to avoid damaging source data
