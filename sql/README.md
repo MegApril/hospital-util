@@ -22,9 +22,22 @@
 
 ### Step 1: Remove Duplicate Rows
 - Source table: `maternal-neonatal-outcomes.neonatal_maternal_data.interventions_staging`
+
 - Records read: **1,010**
 - Records written: **1,000**
 - **10 duplicate rows removed**
 
 This confirms that exact duplicates were present and successfully removed using `SELECT DISTINCT *`.
+
+### Step 2: Trim Whitespace and Standardize Casing
+- Source table: `maternal-neonatal-outcomes.neonatal_maternal_data.step1_deduped`
+
+- Converted `Epidural` column from `BOOLEAN` to `STRING` using `LOWER(CAST(Epidural AS STRING))`
+- Reason: to ensure consistent formatting and string-based filtering/grouping
+- Outcome: `'TRUE'` and `'FALSE'` now appear as `'true'` and `'false'` in the `cleaned_epidural` column
+
+- Converted `NICU_Admission` column from `BOOLEAN` to `STRING` using `LOWER(CAST(NICU_Admission AS STRING))`
+- Reason: to ensure consistent formatting and string-baseed filtering/grouping
+- Outcome: `'TRUE'` and `'FALSE'` now appear as `'true'` and `'false'` in the `cleaned_nicu_admission` column
+
 
