@@ -1,8 +1,8 @@
 # Neonatal & Maternal Data Cleaning (BigQuery)
--- BigQuery Data Cleaning Framework (Safe, Modular, Reproducible)
--- Author: Meg Hinton
--- Description: Step-by-step SQL pipeline for cleaning messy datasets safely in BigQuery
--- Best Practice: Each step builds a new table using CREATE OR REPLACE to avoid damaging source data
+- BigQuery Data Cleaning Framework (Safe, Modular, Reproducible)
+- Author: Meg Hinton
+- Description: Step-by-step SQL pipeline for cleaning messy datasets safely in BigQuery
+- Best Practice: Each step builds a new table using CREATE OR REPLACE to avoid damaging source data
 
 
 ## Pipeline Overview
