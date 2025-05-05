@@ -19,13 +19,20 @@ All notable changes to this project will be documented in this file. The purpose
 ### Security
 
 ---
-## 2025-05-05 | Version 0.0.5 
+## 2025-05-05 | Version 0.0.6
+### Changed
+- standardized casing and trimmed white space
+- cast `nicu_admission` and `epidural` from `BOOLEAN` to `STRING`
+
+## 2025-05-04 | Version 0.0.5 
+### Changed
+- merged appropriate information into sql/README.md and 01_deduplicate.sql
 ### Added
 - README.md to sql-scripts
 - data-cleaning.sql to sql-scripts
 - staging.sql to sql-scripts
 ### Removed
-- data-cleaning.sql and merged appropriate information into sql/README.md and 01_deduplicate.sql
+- data-cleaning.sql
 - casestudy.md
 - data.md
 - visuals.md
