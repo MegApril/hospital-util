@@ -40,4 +40,6 @@ This confirms that exact duplicates were present and successfully removed using 
 - Reason: to ensure consistent formatting and string-baseed filtering/grouping
 - Outcome: `'TRUE'` and `'FALSE'` now appear as `'true'` and `'false'` in the `cleaned_nicu_admission` column
 
-
+### Step 3: Fix Misspellings and Abbreviations
+- `cleaned_insurance` mappings:
+  - 'medcaid' -> 'medicaid'
