@@ -22,7 +22,8 @@ All notable changes to this project will be documented in this file. The purpose
 ## 2025-05-05 | Version 0.0.6
 ### Changed
 - standardized casing and trimmed white space
-- cast `nicu_admission` and `epidural` from `BOOLEAN` to `STRING`
+- cast `nicu_admission` from `BOOLEAN` to `STRING`
+- cast `epidural` from `BOOLEAN` to `STRING`
 - 20 values in `cleaned_insurance` edited from 'medcaid' -> 'medicaid'
 
 ## 2025-05-04 | Version 0.0.5 
