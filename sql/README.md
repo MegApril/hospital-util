@@ -37,9 +37,16 @@ This confirms that exact duplicates were present and successfully removed using 
 - Outcome: `'TRUE'` and `'FALSE'` now appear as `'true'` and `'false'` in the `cleaned_epidural` column
 
 - Converted `NICU_Admission` column from `BOOLEAN` to `STRING` using `LOWER(CAST(NICU_Admission AS STRING))`
-- Reason: to ensure consistent formatting and string-baseed filtering/grouping
+- Reason: to ensure consistent formatting and string-based filtering/grouping
 - Outcome: `'TRUE'` and `'FALSE'` now appear as `'true'` and `'false'` in the `cleaned_nicu_admission` column
 
 ### Step 3: Fix Misspellings and Abbreviations
-- `cleaned_insurance` mappings:
-  - 'medcaid' -> 'medicaid'
+- Source table: `maternal-neonatal-outcomes.neonatal_maternal_data.step2_trimmed`
+- Converted
+  - `cleaned_insurance` mappings:
+    - `medcaid` -> `medicaid`
+  - `cleaned_risk_factors` mappings:
+    -`hypertensoin`->`hypertension`
+using
+  
+  
